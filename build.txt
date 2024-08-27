@@ -1,0 +1,3 @@
+displayName = ForOne Toolkit
+author = Reits
+version = 0.1
